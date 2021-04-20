@@ -1,0 +1,8 @@
+[run]
+branch = true
+; could there be a problem with this?
+source = polls
+
+[report]
+show_missing = true
+precision = 2

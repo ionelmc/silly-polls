@@ -1,0 +1,48 @@
+.center {
+    text-align: center;
+}
+
+.warn {
+    font-weight: bold;
+}
+
+.small {
+    font-size: 80%;
+}
+
+.smaller {
+    font-size: 60%;
+}
+
+.big {
+    font-size: 120%;
+}
+
+.bigger {
+    font-size: 140%;
+}
+
+.tiny, .tiny * {
+    font-size: 9px;
+}
+
+.fancy {
+    font-size: 120%;
+    font-weight: bold;
+}
+
+header {
+    right: 10px;
+}
+
+header h1 {
+    display: inline-block;
+    white-space: nowrap;
+}
+li {
+    padding: 5px 0;
+}
+
+pre {
+    max-height: none;
+}

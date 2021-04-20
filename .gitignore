@@ -1,0 +1,13 @@
+.tox
+.idea
+.pytest_cache
+.coverage
+.coverage.*
+venv
+__pycache__
+*.pyc
+*.sqlite3
+*tests*/*browser.png
+*tests*/*browser.html
+htmlcov
+geckodriver.log
